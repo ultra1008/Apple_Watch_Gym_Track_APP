@@ -1,4 +1,4 @@
-# Gym Routine Tracker
+## Gym Routine Tracker
 
 _A minimalist wrist-based gym workout tracker_
 
